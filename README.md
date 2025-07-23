@@ -101,13 +101,4 @@ Python community tools and packages
 Built with ♥ by Satyam Maurya
 
 
----
-
-Let me know if you want:
-- A better project name?
-- GitHub badges (e.g., test status)?
-- Sample CSV preview?
-- A short demo video/gif section?
-
-I'm here for all of it.
 
